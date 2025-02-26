@@ -1,0 +1,23 @@
+        /* Style the navigation bar */
+        .navbar {
+            overflow: hidden;
+            background-color: #a3c69e;
+            
+        }
+
+        /* Style the links inside the navigation bar */
+        .navbar a {
+            font-family: 'Segoe UI';
+            float: left;
+            display: block;
+            color: #000000;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        /* Change the color of links on hover */
+        .navbar a:hover {
+            background-color: #ddd;
+            color: rgb(0, 0, 0);
+        }
